@@ -5,19 +5,19 @@
   <img alt="Coding" width="350" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swati-sharma14" alt="swati07sharma" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swati-sharma14" alt="swati07sharma" /></a> </p>
 
-- 🌱 I’m interested in Operating Systems, Open Source and Algorithms. I'm constantly expanding my skillset by learning emerging technologies.
+### 🌱 What I'm Up To
 
-- 🧠 I’m currently learning Machine Learning and Deep Learning
+- 🔍 Actively seeking Machine Learning and Deep Learning projects.
+- 📚 Learning Natural Language Processing and Computer Vision.
 
-- <a href="https://swatisharma14.netlify.app/"> <b> Personal Website </b> </a>
+### 📫 Connect with Me
 
-- 📫 How to reach me 
-        <p>  Mail : **swati21568@iiitd.ac.in** </p>
-  <p>     LinkedIn:   https://www.linkedin.com/in/swati-sharma-55ab5323a/   </p>
+- 🌐 [Personal Website](https://swatisharma14.netlify.app/)
+- ✉️ Email: swati21568@iiitd.ac.in
+- 🔗 LinkedIn: [Swati Sharma](https://www.linkedin.com/in/swati-sharma-55ab5323a/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/swati21568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="swati21568" height="30" width="40" /></a>
 <a href="https://instagram.com/swati_sharma140_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swati_sharma140_" height="30" width="40" /></a>
