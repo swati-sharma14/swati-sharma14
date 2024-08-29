@@ -9,8 +9,8 @@
 
 ### 🌱 What I'm Up To
 
-- 🔍 Actively seeking Machine Learning and Deep Learning projects.
-- 📚 Learning Natural Language Processing and Computer Vision.
+- Actively seeking Machine Learning and Deep Learning projects.
+- Learning Natural Language Processing and Computer Vision.
 
 ### 📫 Connect with Me
 
